@@ -154,7 +154,6 @@ impact_groups = {
             "(houdt|houden) (me|mij|je|de lezer) (in een wurggreep|gekluisterd)",
             "(houdt|houden) (me|mij|je|de lezer) (in de ban|in haar ban|in haar macht|in zijn macht|in spanning|gespannen)",
             "(het) (nadeel) (is|blijft)",
-            "(is) (mijn) (favoriet|favoriete|favorieten)",
             "(ik vind|vind ik) (het) (een) (boek)",
             "(ik wilde|je wilt|wil je) (weten)",
             "(in) (een|1) (adem|avond|keer|ruk|stuk|zucht) (gelezen|uitgelezen)",
