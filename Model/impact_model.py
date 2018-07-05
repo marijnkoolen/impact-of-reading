@@ -26,7 +26,7 @@ impact_groups = {
             "adembenemend*", "actueel*", "absurd*", "bombastisch*", "bloedstollend*",
             "claustrofobisch*", "creepy*", "chapeau*", "cool*", "euforisch*",
             "fantastisch*", "fijn*", "fijne*", "flauw*", "fraai*",
-            "gaaf*", "geinig*", "geniaal*", "geweldig*", "grappige*", "gruwelijk*",
+            "gaaf*", "geinig*", "geniaal*", "geweldig*", "grappig*", "gruwelijk*",
             "hartstikke*", "heerlijk*", "heerlijke*", "heftig*",
             "helaas", "hoopgevend*", "huiveringwekkend*",
             "informatief*", "innemend*", "intriest*", "jammer*", "knap*",
